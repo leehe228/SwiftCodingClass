@@ -26,6 +26,7 @@ class ContentViewModel: ObservableObject {
             .decode(type: Info.self, decoder: JSONDecoder())
             .sink { _ in
             } receiveValue: { [weak self] returnedPost in
+                print(returnedPost)
                 self?.user = returnedPost.users
                 print("user.count: \(self?.user.count ?? -1)")
             }
