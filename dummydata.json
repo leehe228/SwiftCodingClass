@@ -1,0 +1,126 @@
+{
+    "data": {
+        "items": [
+            {
+                "id": "1",
+                "type": "beauty-salon",
+                "name": "오리지널 그루밍",
+                "tel": "01096864847",
+                "description": "안녕하세요. 오리지널그루밍 애견미용실을 찾아주셔서 진심으로 감사드립니다. 오리지널그루밍은 한국의 애견미용 트렌드를 이끌어가는 샵입니다. 이름 그대로 진정한 미용이란 무엇 인가를 추구하는 의미를 담고 있습니다.",
+                "rating": -1,
+                "reviewCount": 50,
+                "iconImage": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221004_111%2F1664859823250yExgJ_JPEG%2FIMG_5421.JPG",
+                "images": [
+                    "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221005_36%2F1664959427476nl73O_JPEG%2F1564F5C7-CA91-40D3-AD94-C49A9A745143.jpeg",
+                    "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221004_67%2F1664859823281VXttq_JPEG%2FIMG_5614.JPG",
+                    "https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyMzAxMjFfMjE4%2FMDAxNjc0MjMzNjE2Mzcx.YVPSb2n1EcSfK15ZKElcZysJLWu7os2FYCXx0yqHWIAg.2i3hXwi4dfR3bKdIfWCEczwFEEyT0tKrHWDjX0TJm3kg.JPEG%2FA2C119F4-F72F-4046-A4F6-073BBD35B005.jpeg"
+                ],
+                "address": "서울 강남구 언주로97길 36 1층",
+                "coordinate": {
+                    "longitude": 127.0385062,
+                    "latitude": 37.5048191
+                },
+                "pricing": {
+                    "cut": 70000
+                },
+                "pricingImage": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220501_193%2F1651394924939vCmzq_PNG%2F%25BF%25F8%25C0%25E5%25B4%25D4.png"
+            },
+            {
+                "id": "2",
+                "type": "beauty-salon",
+                "name": "다올(DAOR)",
+                "tel": "0234530001",
+                "description": "반려견이 아름디워지는 공간 다올입니다. 청담동 위치한 가위컷 전문 반려견미용실로 아이들의 스트레스를 최소화하고, 건강함과 아름다움을 유지시켜주기 위해 실력있는 디자이너 선생님들과 다양한 스파 및 미용프로그램들을 지금 다올에서 만나보세요.",
+                "rating": 4.8,
+                "reviewCount": 39,
+                "iconImage": "https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyMzA5MjVfNjMg%2FMDAxNjk1NjIxMjEyNTAw.-k7tJJyIVUP78HTaRM0Mu9utI7rNDk06lrhvdP2yuksg._zQtQTyYXmxFcZfSzhqvY8kEdiDXlF5HeTGeOHPlpBIg.JPEG%2F2E1857FA-E3AB-40E8-87D3-BFAB5CC24132.jpeg",
+                "images": [
+                    "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230909_27%2F1694222182240JBWY8_PNG%2F002.png",
+                    "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230909_209%2F1694222182265fe9JF_PNG%2F003.png",
+                    "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230909_285%2F1694222182299Fc1bP_PNG%2F004.png"
+                ],
+                "address": "서울 강남구 도산대로99길 19 2층 다올",
+                "coordinate": {
+                    "longitude": 127.0515405,
+                    "latitude": 37.5261072
+                },
+                "pricing": {
+                    "cut": 35000
+                },
+                "pricingImage": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230313_172%2F1678671515218xJXXM_PNG%2F5ACA3933-E9B2-4F5B-9D33-31EC875DBCD6.png"
+            },
+            {
+                "id": "3",
+                "type": "beauty-salon",
+                "name": "플러피",
+                "tel": "050713850011",
+                "description": "청담동에 위치한 반려견전문 미용실입니다. 저희 플러피는 오랜 경력과 실전으로 현재 반려견 스타일리스트 심사위원과 국비교육기관심사평가위원등을 겸임하여 전문적인 자격을 갖춘 원장님의 퀄리티 높은 섬세한 케어를 받아보실 수 있습니다.",
+                "rating": 5.0,
+                "reviewCount": 57,
+                "iconImage": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODExMjZfOTkg%2FMDAxNTQzMjA0NzUwMDY3.BCBTz19lPwR5nZu8PAsrZLnmZ9EfVyI-pwgfwbxfnSQg.ihpKWhB0ggE7lGvl5H7faJyP334wdFldSGt62Z4Ie4Ig.JPEG.rjawkrwkr%2FIMG_0965.jpg",
+                "images": [
+                    "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220329_170%2F1648524162148eDO9K_PNG%2F1648523785151-4.png",
+                    "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220329_43%2F1648524139225rKJki_PNG%2F1648523785151-1.png",
+                    "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODExMjZfMzMg%2FMDAxNTQzMjA0NzUzNzM4.V4q3ESp9plEzb8NBILViBOFzdY6Antvn4qp-t-43tHcg.AQo0yrU_tQ5Y3hB2m3EyN38xH4jMtvs-oadAcb51Zzwg.JPEG.rjawkrwkr%2FIMG_0408.jpg"
+                ],
+                "address": "서울 강남구 압구정로79길 61 2층 플러피",
+                "coordinate": {
+                    "longitude": 127.0521409,
+                    "latitude": 37.5257178
+                },
+                "pricing": {
+                    "cut": 50000
+                },
+                "pricingImage": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221222_91%2F1671672431957fD6FC_JPEG%2FScreenshot_20220705-175334_Polaris_Office.jpg"
+            },
+            {
+                "id": "4",
+                "type": "beauty-salon",
+                "name": "와와살롱",
+                "tel": "010-6774-5706",
+                "description": "서초 가위컷 전문 애견 미용실 와와살롱입니다. 와와살롱은 아이들이 스트레스 없이 안전한 미용 하는 것을 최우선으로 생각하기에 미용 전 충분한 1:1 교감 후 미용을 해드리고 있습니다.",
+                "rating": -1,
+                "reviewCount": 10,
+                "iconImage": "https://search.pstatic.net/common/?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20230807_102%2F16914119695625XCLS_JPEG%2Fimage.jpg",
+                "images": [
+                    "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230810_253%2F1691634120564aI7gW_JPEG%2FKakaoTalk_20230809_151810155.jpg",
+                    "https://search.pstatic.net/common/?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20230807_12%2F1691416578913ar7KM_JPEG%2Fimage.jpg",
+                    "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230818_197%2F1692326444353DnzH2_JPEG%2F20230818_113950.jpg"
+                ],
+                "address": "서울 서초구 효령로53길 50 A동 103호",
+                "coordinate": {
+                    "longitude": 127.0135114,
+                    "latitude": 37.4869790
+                },
+                "pricing": {
+                    "cut": 25000
+                },
+                "pricingImage": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230810_1%2F16916346608566JmmE_JPEG%2FKakaoTalk_20230809_151545966.jpg"
+            },
+            {
+                "id": "5",
+                "type": "beauty-salon",
+                "name": "쏘큐트펫살롱",
+                "tel": "01074947077",
+                "description": "프리미엄 반려견 미용실입니다. 가위컷전문으로 반려견의 안전을 최우선으로 하여 최대한 스트레스 없는 꼼꼼한 미용을 합니다.",
+                "rating": -1,
+                "reviewCount": 8,
+                "iconImage": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211105_53%2F163610453011223YzV_JPEG%2F_AEytN5FdbEeGRyAdRe3mRGA.jpg",
+                "images": [
+                    "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220111_72%2F1641887713434nim61_JPEG%2FA12F1AED-ED05-4652-8829-4A0A5C00DC7F.jpeg",
+                    "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211105_76%2F1636104547945fNBEd_JPEG%2Fl_3rVazZvzV-uYMpA0SJmZKj.jpg",
+                    "https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyMjA1MDlfMTkx%2FMDAxNjUyMDgzNjA3Nzg5.R-VWidebE75WLxS6-K9WGAXi9w-ywvTA1x0Va4IoQ_kg.WgISH-gcXF1iKM9AG-OL5B6bEE2yvcVEbySta_GgLiIg.JPEG%2Fupload_e1404efb9e72c4e9f80be4fc6e7937f4.jpeg"
+                ],
+                "address": "서울 강남구 도곡로13길 19 롯데캐슬노블 상가동 101호",
+                "coordinate": {
+                    "longitude": 127.0355718,
+                    "latitude": 37.4924775
+                },
+                "pricing": {
+                    "cut": 110000
+                },
+                "pricingImage": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230221_18%2F1676959978545T0pka_JPEG%2FC27D7FBF-28AB-4879-A880-8076C8981BA3.jpeg"
+            }
+        ]
+    }
+}
