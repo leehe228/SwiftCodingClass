@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C0EA3FC2AFDCAE2004C43A2 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C0EA3FB2AFDCAE2004C43A2 /* Profile.swift */; };
+		0C43A2B32B0C955900003AA7 /* TestView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C43A2B22B0C955900003AA7 /* TestView2.swift */; };
+		0C43A2B52B0C989900003AA7 /* TestView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C43A2B42B0C989900003AA7 /* TestView3.swift */; };
+		0C43A2B72B0CB50A00003AA7 /* TabViewTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C43A2B62B0CB50A00003AA7 /* TabViewTestView.swift */; };
+		0C9B81782B0CC7B0002A0D3A /* PagingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C9B81772B0CC7B0002A0D3A /* PagingView.swift */; };
+		0C9B817E2B0CCC8B002A0D3A /* ProfileCardView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C9B817D2B0CCC8B002A0D3A /* ProfileCardView2.swift */; };
+		0C9B81802B0CCCA7002A0D3A /* ProfileCardListView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C9B817F2B0CCCA7002A0D3A /* ProfileCardListView2.swift */; };
+		0C9B81822B0CCCC1002A0D3A /* ProfileCardListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C9B81812B0CCCC1002A0D3A /* ProfileCardListView.swift */; };
+		0CB855652B0BD8EE007400CE /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CB855642B0BD8EE007400CE /* TestView.swift */; };
+		0CD436792B038FC40052D459 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CD436782B038FC40052D459 /* EditView.swift */; };
 		0CE6186E2AF11D3C00CF83ED /* SCC2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CE6186D2AF11D3C00CF83ED /* SCC2App.swift */; };
 		0CE618702AF11D3C00CF83ED /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CE6186F2AF11D3C00CF83ED /* ContentView.swift */; };
 		0CE618722AF11D3D00CF83ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CE618712AF11D3D00CF83ED /* Assets.xcassets */; };
@@ -15,6 +25,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0C0EA3FB2AFDCAE2004C43A2 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		0C43A2B22B0C955900003AA7 /* TestView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView2.swift; sourceTree = "<group>"; };
+		0C43A2B42B0C989900003AA7 /* TestView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView3.swift; sourceTree = "<group>"; };
+		0C43A2B62B0CB50A00003AA7 /* TabViewTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewTestView.swift; sourceTree = "<group>"; };
+		0C9B81772B0CC7B0002A0D3A /* PagingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PagingView.swift; sourceTree = "<group>"; };
+		0C9B817D2B0CCC8B002A0D3A /* ProfileCardView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileCardView2.swift; sourceTree = "<group>"; };
+		0C9B817F2B0CCCA7002A0D3A /* ProfileCardListView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileCardListView2.swift; sourceTree = "<group>"; };
+		0C9B81812B0CCCC1002A0D3A /* ProfileCardListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileCardListView.swift; sourceTree = "<group>"; };
+		0CB855642B0BD8EE007400CE /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
+		0CD436782B038FC40052D459 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 		0CE6186A2AF11D3C00CF83ED /* SCC2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SCC2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CE6186D2AF11D3C00CF83ED /* SCC2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCC2App.swift; sourceTree = "<group>"; };
 		0CE6186F2AF11D3C00CF83ED /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -34,9 +54,49 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0C9B81792B0CCA72002A0D3A /* TabView Practice */ = {
+			isa = PBXGroup;
+			children = (
+				0C43A2B62B0CB50A00003AA7 /* TabViewTestView.swift */,
+				0C43A2B22B0C955900003AA7 /* TestView2.swift */,
+				0C43A2B42B0C989900003AA7 /* TestView3.swift */,
+			);
+			path = "TabView Practice";
+			sourceTree = "<group>";
+		};
+		0C9B817A2B0CCA8D002A0D3A /* Test */ = {
+			isa = PBXGroup;
+			children = (
+				0CB855642B0BD8EE007400CE /* TestView.swift */,
+			);
+			path = Test;
+			sourceTree = "<group>";
+		};
+		0C9B817B2B0CCAAF002A0D3A /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				0CE6186F2AF11D3C00CF83ED /* ContentView.swift */,
+				0C9B81772B0CC7B0002A0D3A /* PagingView.swift */,
+				0CE6187B2AF11F0300CF83ED /* ProfileCardView.swift */,
+				0C9B817D2B0CCC8B002A0D3A /* ProfileCardView2.swift */,
+				0C9B81812B0CCCC1002A0D3A /* ProfileCardListView.swift */,
+				0C9B817F2B0CCCA7002A0D3A /* ProfileCardListView2.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		0C9B817C2B0CCADA002A0D3A /* Profile Data */ = {
+			isa = PBXGroup;
+			children = (
+				0C0EA3FB2AFDCAE2004C43A2 /* Profile.swift */,
+			);
+			path = "Profile Data";
+			sourceTree = "<group>";
+		};
 		0CE618612AF11D3C00CF83ED = {
 			isa = PBXGroup;
 			children = (
+				0CD436782B038FC40052D459 /* EditView.swift */,
 				0CE6186C2AF11D3C00CF83ED /* SCC2 */,
 				0CE6186B2AF11D3C00CF83ED /* Products */,
 			);
@@ -54,10 +114,12 @@
 			isa = PBXGroup;
 			children = (
 				0CE6186D2AF11D3C00CF83ED /* SCC2App.swift */,
-				0CE6186F2AF11D3C00CF83ED /* ContentView.swift */,
+				0C9B817C2B0CCADA002A0D3A /* Profile Data */,
+				0C9B817B2B0CCAAF002A0D3A /* Main */,
+				0C9B817A2B0CCA8D002A0D3A /* Test */,
+				0C9B81792B0CCA72002A0D3A /* TabView Practice */,
 				0CE618712AF11D3D00CF83ED /* Assets.xcassets */,
 				0CE618732AF11D3D00CF83ED /* Preview Content */,
-				0CE6187B2AF11F0300CF83ED /* ProfileCardView.swift */,
 			);
 			path = SCC2;
 			sourceTree = "<group>";
@@ -140,8 +202,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C43A2B72B0CB50A00003AA7 /* TabViewTestView.swift in Sources */,
+				0C9B817E2B0CCC8B002A0D3A /* ProfileCardView2.swift in Sources */,
+				0C43A2B52B0C989900003AA7 /* TestView3.swift in Sources */,
+				0CB855652B0BD8EE007400CE /* TestView.swift in Sources */,
 				0CE618702AF11D3C00CF83ED /* ContentView.swift in Sources */,
+				0C9B81802B0CCCA7002A0D3A /* ProfileCardListView2.swift in Sources */,
+				0CD436792B038FC40052D459 /* EditView.swift in Sources */,
+				0C0EA3FC2AFDCAE2004C43A2 /* Profile.swift in Sources */,
+				0C9B81822B0CCCC1002A0D3A /* ProfileCardListView.swift in Sources */,
+				0C43A2B32B0C955900003AA7 /* TestView2.swift in Sources */,
 				0CE6187C2AF11F0300CF83ED /* ProfileCardView.swift in Sources */,
+				0C9B81782B0CC7B0002A0D3A /* PagingView.swift in Sources */,
 				0CE6186E2AF11D3C00CF83ED /* SCC2App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

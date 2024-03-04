@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  SCC2
+//  SCC04
 //
-//  Created by Hoeun Lee on 10/31/23.
+//  Created by Hoeun Lee on 11/28/23.
 //
 
 import SwiftUI

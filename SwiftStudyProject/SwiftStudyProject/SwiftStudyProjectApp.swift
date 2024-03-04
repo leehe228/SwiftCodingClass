@@ -1,14 +1,14 @@
 //
-//  SCC2App.swift
-//  SCC2
+//  SwiftStudyProjectApp.swift
+//  SwiftStudyProject
 //
-//  Created by Hoeun Lee on 10/31/23.
+//  Created by Hoeun Lee on 11/8/23.
 //
 
 import SwiftUI
 
 @main
-struct SCC2App: App {
+struct SwiftStudyProjectApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
